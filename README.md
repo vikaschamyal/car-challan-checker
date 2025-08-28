@@ -1,6 +1,7 @@
 # Vehicle Challan Checker 
 
-[![Watch the video](https://www.youtube.com/watch?v=Kne2pwF3Gqg)
+[![Watch the video](https://img.youtube.com/vi/Kne2pwF3Gqg/0.jpg)](https://youtu.be/Kne2pwF3Gqg)
+
 
 
 A **React.js** web app to check traffic challans for vehicles using mock data.  
